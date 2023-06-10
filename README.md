@@ -1,18 +1,16 @@
-##Formação em Análise de Dados - Senac/Resilia.
+## Formação em Análise de Dados - Senac/Resilia.
 <br>
 
-###Projeto individual - Módulo 5: Pessoas deixando a empresa.###
-<br>
-
+### Projeto individual - Módulo 5: Pessoas deixando a empresa. <br>
 Nome: Matheus Augusto de Souza. <br>
 E-mail: mataugusto1999@gmail.com <br>
 <br><br>
 
-###Problema apresentado:  <br>
+### Problema apresentado:  <br>
 Imagine que você seja o Chefe de Gabinete do Chief Marketing Officer (CMO) de uma grande empresa. Seu chefe, o CMO, pediu que você trabalhasse com seu Parceiro de Negócios de Recursos Humanos (HRBP) para entender o que está causando o atrito – pessoas deixando a empresa – em toda a organização de marketing e apresentar suas descobertas. <br>
 <br>
 
-###Passe algum tempo se familiarizando com o gráfico e os dados que ele mostra e, em seguida, conclua as etapas a seguir: <br>
+### Passe algum tempo se familiarizando com o gráfico e os dados que ele mostra e, em seguida, conclua as etapas a seguir: <br>
 
 * O que está sendo mostrado aqui? Escreva um texto explicando os dados. 
 (Dica: imagine que você precisa explicar esse gráfico para o CMO. Escreva sobre como você faria isso em voz alta (fazendo suposições conforme necessário)). 
