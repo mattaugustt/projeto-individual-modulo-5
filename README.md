@@ -6,9 +6,13 @@ Nome: Matheus Augusto de Souza. <br>
 E-mail: mataugusto1999@gmail.com <br>
 <br><br>
 
+##
+
 ### Problema apresentado:  <br>
 Imagine que você seja o Chefe de Gabinete do Chief Marketing Officer (CMO) de uma grande empresa. Seu chefe, o CMO, pediu que você trabalhasse com seu Parceiro de Negócios de Recursos Humanos (HRBP) para entender o que está causando o atrito – pessoas deixando a empresa – em toda a organização de marketing e apresentar suas descobertas. <br>
 <br>
+
+##
 
 ### Passe algum tempo se familiarizando com o gráfico e os dados que ele mostra e, em seguida, conclua as etapas a seguir: <br>
 
@@ -34,6 +38,8 @@ Esses dados são fáceis ou complicados de falar em sua forma atual? <br>
 
 * O objetivo é pensar além de mostrar simplesmente dados. Como você pode gerar essas informações em uma história orientada por dados para seu gerente, o CMO. (Qual é o contexto da história?). <br>
 <br>
+
+##
 
 ### Storytelling:
 
